@@ -1,0 +1,22 @@
+body{
+    margin: 1in;
+}
+
+#quizStart{
+    position: absolute;
+    font-size: 100px;
+    top: 50%;
+    left: 50%;
+    translate: -50%;
+}
+
+#submitAnswer{
+position: absolute;
+left: 25%;
+font-size: 18px;
+}
+
+#question{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 26px;
+}
